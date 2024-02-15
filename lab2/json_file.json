@@ -1,0 +1,22 @@
+{
+  "people": [
+    {
+      "name": "Alice",
+      "age": 30,
+      "city": "New York",
+      "job": "Computer Engineering"
+    },
+    {
+      "name": "Bob",
+      "age": 25,
+      "city": "San Francisco",
+      "job": "Computer Engineering"
+    },
+    {
+      "name": "Charlie",
+      "age": 35,
+      "city": "Los Angeles",
+      "job": "Computer Engineering"
+    }
+  ]
+}
